@@ -195,4 +195,4 @@ To use the app with your own songs:
 
 ## License
 
-Use freely for personal projects. Ensure you have rights to any audio and lyrics you use.
+MIT License – see [LICENSE](LICENSE) for details. Ensure you have rights to any audio and lyrics you use.
