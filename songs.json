@@ -1,0 +1,31 @@
+{
+  "songs": [
+    {
+      "id": "mama_pathuwe",
+      "title": "Mama Pathuwe - Minura Halwathura",
+      "artist": "Minura Halwathura",
+      "audio": "Mama Pathuwe - Minura Halwathura.mp3",
+      "lyrics": [
+        [0.0, "🎵 Mama Pathuwe - Minura Halwathura 🎵"],
+        [2.0, ""],
+        [18.9, "Mama Pathuwe oba lagama hamadaama nawathinna..."],
+        [25.9, "Mathakayata ida denna thiyenw thwa dura yanna..."],
+        [33.5, "Hitha athule aadaraya sagawagena baaa inna..."],
+        [40.9, "Aadarayen oba lagata weeee obatama atha denna................"],
+        [60.0, ""],
+        [80.0, "Hiru yanawa awarata maaa kaluwarata huru wenna..."],
+        [88.0, "Sandata puluwani abaratama didulana eliyak wenna...................."],
+        [99.0, "Thibenaa thuru obe aaale mt oone raka ganna..."],
+        [106.5, "Obe lagatama weeee inna hamadaama ida denna..."],
+        [119.75, ""],
+        [133.0, "Mata aasai atha allan obe muwaga sipa ganna..."],
+        [140.0, "Obe muhuna sinawen hamadaama pura wanna............"],
+        [148.0, "Duka danena wita numbata mta thuruluwa sanasenna.."],
+        [156.0, "Mata oone hamadaama numbe thurulatama wee inna................."],
+        [164.0, ""]
+      ],
+      "char_delay": 0.16,
+      "line_delay": 0.0
+    }
+  ]
+}
