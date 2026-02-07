@@ -82,6 +82,8 @@ pip install -r requirements.txt
 
 ## songs.json Format
 
+The project includes an example song (Mama Pathuwe by Minura Halwathura) with lyrics and timelines already created. Add your own songs using the format below.
+
 ```json
 {
   "songs": [
@@ -103,15 +105,15 @@ pip install -r requirements.txt
 }
 ```
 
-| Field        | Description                                                |
-| ------------ | ---------------------------------------------------------- |
-| `id`         | Unique identifier                                          |
-| `title`      | Display title                                              |
-| `artist`     | Artist name (optional)                                     |
-| `audio`      | Filename of the audio file (MP3, WAV, or OGG)              |
-| `lyrics`     | Array of `[timestamp, line]` or `[timestamp, line, delay]` |
-| `char_delay` | Typing speed in seconds per character (lower = faster)     |
-| `line_delay` | Pause after each line in seconds (0 = no pause)            |
+| Field        | Description                                                                            |
+| ------------ | -------------------------------------------------------------------------------------- |
+| `id`         | Unique identifier                                                                      |
+| `title`      | Display title                                                                          |
+| `artist`     | Artist name (optional)                                                                 |
+| `audio`      | Filename of the audio file (MP3, WAV, or OGG)                                          |
+| `lyrics`     | Lyrics with timelines for that song: `[timestamp, line]` or `[timestamp, line, delay]` |
+| `char_delay` | Typing speed in seconds per character (lower = faster)                                 |
+| `line_delay` | Pause after each line in seconds (0 = no pause)                                        |
 
 Lyric entries:
 
